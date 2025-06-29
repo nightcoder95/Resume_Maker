@@ -9,3 +9,4 @@ pydantic-settings
 motor #Database Driver for MongoDB (asynchronous)
 beanie #For handling ObjectIds from MongoDB
 python-dotenv
+python-multipart==0.0.12
