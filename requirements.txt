@@ -4,3 +4,8 @@ pymongo==4.10.1
 pdfplumber==0.11.4
 reportlab==4.2.5
 python-multipart==0.0.12
+pydantic
+pydantic-settings
+motor #Database Driver for MongoDB (asynchronous)
+beanie #For handling ObjectIds from MongoDB
+python-dotenv
